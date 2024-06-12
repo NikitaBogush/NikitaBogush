@@ -1,4 +1,14 @@
-## Hi there 👋
+### Стек инструментов и технологий:
+* Python
+* Django
+* SQL, PostgreSQL, Django ORM
+* REST API, Django REST framework
+* Git, GitHub
+* Docker
+* Bash
+* Nginx
+* Gunicorn
+* HTML, CSS
 
 <!--
 **NikitaBogush/NikitaBogush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
